@@ -79,4 +79,4 @@ This dashboard turns raw UPI transaction data into clear, filterable insights.
 ## 👤 Author
 
 **Tejas Bafna** — Data Analyst | Power BI Developer  
-📧 tejasbafna311@gmail.com · [LinkedIn](https://linkedin.com) · 📍 Nashik, India
+📧 tejasbafna311@gmail.com · [LinkedIn](www.linkedin.com/in/tejas-bafna) ·
